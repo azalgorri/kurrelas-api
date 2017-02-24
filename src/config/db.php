@@ -5,7 +5,7 @@
         private $dbhost = 'localhost';
         private $dbuser = 'sepe';
         private $dbpass = 'asd2100';
-        private $dbname = 'slimapp';
+        private $dbname = 'kurrelas';
 
         // Connect
         public function connect()

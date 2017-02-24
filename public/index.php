@@ -13,7 +13,7 @@ $app->get('/hello/{name}', function (Request $request, Response $response) {
     return $response;
 });
 
-// Customer routes
-require '../src/routes/customers.php';
+// Kurrelas routes
+require '../src/routes/kurrelas.php';
 
 $app->run();
